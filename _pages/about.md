@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Minglang Yin. I am a second-year Ph.D. Student in Biomedical Engineering, School of Engineering, Brown University. I am working with and advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis). 
-
-My research interests based on fluid mechanics etc. 
+I am Minglang Yin. I am a Ph.D. Student in Biomedical Engineering, School of Engineering, Brown University. I am working with and advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis).
 

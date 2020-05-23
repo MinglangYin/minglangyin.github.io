@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Minglang Yin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Minglang Yin"
+description              : &description "Ph.D. Student"
 url                      : https://minglangyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minglangyin/minglangyin.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Student, Brown University"
   location         : "Providence, RI"
-  employer         : "Advisor: Prof. George Em Karniadakis"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=juHRnVsAAAAJ&hl=en"
   email            : "minglang_yin@brown.edu"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
