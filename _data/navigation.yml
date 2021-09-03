@@ -19,8 +19,8 @@ main:
     # url: /cv/
     url: /files/Resume.pdf
 
-  - title: "News"
-    url: /news/
+  # - title: "News"
+  #   url: /news/
     
   # - title: "Guide"
   #   url: /markdown/
