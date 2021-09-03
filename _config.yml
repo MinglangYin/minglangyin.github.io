@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minglang Yin"
 title_separator          : "-"
 name                     : &name "Minglang Yin"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Candidate"
 url                      : https://minglangyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minglangyin/minglangyin.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Minglang Yin"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Student, Brown University"
+  avatar           : "minglangyin.png"
+  bio              : "Ph.D. Candidate, Brown University"
   location         : "Providence, RI"
   employer         : 
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-7861-350X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
