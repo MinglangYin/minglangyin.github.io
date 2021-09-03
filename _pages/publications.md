@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Journals
+<!-- ## Journals
 
-1. 
+1.  -->
