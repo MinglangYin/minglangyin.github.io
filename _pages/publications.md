@@ -21,7 +21,7 @@ author_profile: true
 
 11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "On the coupling of a macroscale method with Deep Operator Network" -->
 
-10. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", arXiv:2108.11985 (2021).
+1. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", arXiv:2108.11985 (2021).
 
 9. S. Goswami, M. Yin, Y. Yu, G.E. Karniadakis, "A physics-informed variational DeepONet for predicting the crack path in brittle materials", arXiv:2108.06905 (2021).
 
@@ -37,7 +37,7 @@ author_profile: true
 
 3. D. Hopper, D. Jaganathan, J. Orr, J. Shi, F. Simeski, M. Yin, J.T.C. Liu, "Heat Transfer in Nanofluid Boundary Layer Near Adiabatic Wall." Journal of Nanofluids 7.6 (2018): 1297-1302.
 
-2. M. Yin}, J. Kou, W. Zhang, "A reduced-order aerodynamic model with high generalization capability based on neural network", Acta Aerodynamica Sinica 35.02 (2017): 205-213.
+2. M. Yin, J. Kou, W. Zhang, "A reduced-order aerodynamic model with high generalization capability based on neural network", Acta Aerodynamica Sinica 35.02 (2017): 205-213.
 
 1. J. Kou, W. Zhang, and M. Yin, "Novel Wiener models with a time-delayed nonlinear block and their identification." Nonlinear Dynamics 85.4 (2016): 2389-2404.
 
