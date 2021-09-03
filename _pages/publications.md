@@ -33,11 +33,11 @@ author_profile: true
 
 8. E. Zhang, M. Yin, G.E. Karniadakis, "Physics-Informed Neural Networks for Nonhomogeneous Material Identification in Elasticity Imaging", AAAI Conference (2020).
 
-9. M. Yin}, A. Yazdani, and G.E. Karniadakis. "One-dimensional modeling of fractional flow reserve in coronary artery disease: Uncertainty quantification and Bayesian optimization." Computer Methods in Applied Mechanics and Engineering, 353 (2019): 66-85.
+4. M. Yin}, A. Yazdani, and G.E. Karniadakis. "One-dimensional modeling of fractional flow reserve in coronary artery disease: Uncertainty quantification and Bayesian optimization." Computer Methods in Applied Mechanics and Engineering, 353 (2019): 66-85.
 
-10. D. Hopper, D. Jaganathan, J. Orr, J. Shi, F. Simeski, M. Yin, J.T.C. Liu, "Heat Transfer in Nanofluid Boundary Layer Near Adiabatic Wall." Journal of Nanofluids 7.6 (2018): 1297-1302.
+3. D. Hopper, D. Jaganathan, J. Orr, J. Shi, F. Simeski, M. Yin, J.T.C. Liu, "Heat Transfer in Nanofluid Boundary Layer Near Adiabatic Wall." Journal of Nanofluids 7.6 (2018): 1297-1302.
 
-11. M. Yin}, J. Kou, W. Zhang, "A reduced-order aerodynamic model with high generalization capability based on neural network", Acta Aerodynamica Sinica 35.02 (2017): 205-213.
+2. M. Yin}, J. Kou, W. Zhang, "A reduced-order aerodynamic model with high generalization capability based on neural network", Acta Aerodynamica Sinica 35.02 (2017): 205-213.
 
-12. J. Kou, W. Zhang, and M. Yin, "Novel Wiener models with a time-delayed nonlinear block and their identification." Nonlinear Dynamics 85.4 (2016): 2389-2404.
+1. J. Kou, W. Zhang, and M. Yin, "Novel Wiener models with a time-delayed nonlinear block and their identification." Nonlinear Dynamics 85.4 (2016): 2389-2404.
 
