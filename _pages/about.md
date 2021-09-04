@@ -16,6 +16,7 @@ redirect_from:
 
 Recent News:
 =====
+- (Aug, 2021) New paper [Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network]()
 - (Aug, 2021) New paper [A physics-informed variational DeepONet for predicting the crack path in brittle materials]()
 - (May, 2021) New paper [Physics-informed neural networks (PINNs) for fluid mechanics: A review]()
 - (Jan, 2021) New paper [Multiscale Parareal Algorithm for Long-Time Mesoscopic Simulations of Microvascular Blood Flow in Zebrafish]()

@@ -19,9 +19,9 @@ author_profile: true
 
 <!-- 12. M. Yin, R. Aaron, G.E. Karniadakis, "Non-invasive inference of arterial stiffness for osteoarthritis patients" under written (2021).
 
-11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "On the coupling of a macroscale method with Deep Operator Network" -->
+11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "On the coupling of a macroscale method with Deep Operator Network", arXiv:2108.11985 (2021).-->
 
-1. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", arXiv:2108.11985 (2021).
+10. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", arXiv:2108.11985 (2021).
 
 9. S. Goswami, M. Yin, Y. Yu, G.E. Karniadakis, "A physics-informed variational DeepONet for predicting the crack path in brittle materials", arXiv:2108.06905 (2021).
 
