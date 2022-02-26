@@ -17,17 +17,17 @@ author_profile: true
 
 ## Journals
 
-<!-- 12. M. Yin, R. Aaron, G.E. Karniadakis, "Non-invasive inference of arterial stiffness for osteoarthritis patients" under written (2021).
+<!-- 12. M. Yin, R. Aaron, G.E. Karniadakis, "Non-invasive inference of arterial stiffness for osteoarthritis patients" under written (2021). -->
 
-11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "On the coupling of a macroscale method with Deep Operator Network", arXiv:2108.11985 (2021).-->
+11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems", (2022).
 
-10. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", arXiv:2108.11985 (2021).
+10. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", Journal of the Royal Society Interface 19.187 (2022): 20210670.
 
-9. S. Goswami, M. Yin, Y. Yu, G.E. Karniadakis, "A physics-informed variational DeepONet for predicting the crack path in brittle materials", arXiv:2108.06905 (2021).
+9. S. Goswami, M. Yin, Y. Yu, G.E. Karniadakis, "A physics-informed variational DeepONet for predicting the crack path in brittle materials", Computer Methods in Applied Mechanics and Engineering 391 (2022): 114587.
 
-8. S. Cai, Z. Mao, Z. Wang, M. Yin, G.E. Karniadakis, "Physics-informed neural networks in fluid mechanics: A review", Acta Mechanica Sinica (2021).
+8. S. Cai, Z. Mao, Z. Wang, M. Yin, G.E. Karniadakis, "Physics-informed neural networks in fluid mechanics: A review", Acta Mechanica Sinica (2022): 1-12.
 
-7. A. Blumers*, M. Yin*, Y. Hasegawa, Z. Li, and G.E. Karniadakis. "Supervised parallel-in-time algorithm for long-time Lagrangian simulations of stochastic dynamics: Application to blood flow in zebrafish", Computational Mechanics (2021).
+7. A. Blumers*, M. Yin*, Y. Hasegawa, Z. Li, and G.E. Karniadakis. "Supervised parallel-in-time algorithm for long-time Lagrangian simulations of stochastic dynamics: Application to blood flow in zebrafish", Computational Mechanics 68.5 (2021): 1131-1152.
 
 6. M. Yin, X. Zheng, J.D. Humphrey, G.E. Karniadakis, "Non-invasive inference of thrombus material properties with physics-informed neural networks." Computer Methods in Applied Mechanics and Engineering 375 (2021): 113603.
 
