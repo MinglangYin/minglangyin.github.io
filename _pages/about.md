@@ -19,6 +19,7 @@ Recent News:
 - (Mar. 2022) Check out our new paper of interfacing finite elements with neural operators! [Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems](https://scholar.google.com/citations?user=juHRnVsAAAAJ&hl=en)
 - (Mar. 2022) Check out our CMAME paper, [A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials](https://www.sciencedirect.com/science/article/pii/S004578252200010X)
 - (Feb. 2022) A new neural operator for simulating aortic dissection, [Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0670)
+- (Jan. 2022) Invited talk, Department of Biomedical Engineering, Johns Hopkins University, Multiscale Modeling and Machine Learning for Biomedicine
 - (Jan. 2022) Finalist of the Distinguished Fellows Position, Department of Biomedical Engineering, Johns Hopkins University
 - (Jan. 2022) Our new paper of PINNs for fluid mechanics, [Physics-informed neural networks (PINNs) for fluid mechanics: A review](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 - (Oct. 2021) Conference Presentation: 2021 IACM Computational Fluids Conference, [Imaging-Driven Inference of Biomaterial Properties with Physics-Informed Neural Networks]()
