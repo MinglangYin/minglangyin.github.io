@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News:
 =====
-- (Jun. 2022) Glad to present our works in person at [USNCTAM2022](https://www.usnctam2022.org/) in Austin!
+- (Jun. 2022) Glad to present our works at [USNC/TAM 2022](https://www.usnctam2022.org/) in Austin!
 - (Mar. 2022) Check out our new CMAME paper of interfacing finite elements with neural operators! [Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002535)
 - (Mar. 2022) Check out our CMAME paper, [A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials](https://www.sciencedirect.com/science/article/pii/S004578252200010X)
 - (Feb. 2022) A new neural operator for simulating aortic dissection, [Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0670)
