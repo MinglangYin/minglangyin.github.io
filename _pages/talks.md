@@ -11,6 +11,8 @@ redirect_from:
 
 # Conference Talks
 ======
+* 2022 USNCTAM (Austin, TX), Multiscale Modeling with Operator-Learning Neural Networks
+* 2022 USNCTAM (Austin, TX), Imaging-Driven Modeling of Dissection Progression in the Aorta
 * 2021 IMECE (Online) Predicting Injection-caused Delamination in Aortic Walls using DeepONet
 * 2021 USNCCM16 (Online), Data-Driven Modeling of Injection-Caused Delamination on Aortic Walls Using DeepONet 
 * 2020 APS DFD (Online), Non-invasive Inference of Thrombus Material Properties with Physics-Informed Neural Networks
