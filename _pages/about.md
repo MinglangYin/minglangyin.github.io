@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am Minglang Yin. I am a Ph.D. Candidate in Biomedical Engineering, School of Engineering, Brown University. I am working with and advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis).
+- I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof.Natalia Traynova](http://www.trayanovalab.org/) on developing machine learning model for cardiovascular diseases. I finished my Ph.D. degree with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) and the title of my thesis is Hybrid Computational-Machine Learning Models with Uncertainty Quantification for Aortic Dissection.
 
 - My research interests are on scientific machine learning and its applications on biomechanics, scientific machine learning, computational mechanics, and uncertainty quantification.
 
@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News:
 =====
+- (Aug. 2022) I start my new position as a postdoc in the department of biomedical engineering, Johns Hopkins University.
+- (Jul. 2022) I have my thesis defense in late July, 2022.
 - (Jun. 2022) Glad to present our works at [USNC/TAM 2022](https://www.usnctam2022.org/) in Austin!
 - (Mar. 2022) Check out our new CMAME paper of interfacing finite elements with neural operators! [Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002535)
 - (Mar. 2022) Check out our CMAME paper, [A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials](https://www.sciencedirect.com/science/article/pii/S004578252200010X)
