@@ -10,7 +10,7 @@ redirect_from:
 
 - I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof.Natalia Traynova](http://www.trayanovalab.org/) on developing machine learning model for cardiovascular diseases. I finished my Ph.D. degree with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) and the title of my thesis is Hybrid Computational-Machine Learning Models with Uncertainty Quantification for Aortic Dissection.
 
-- My research interests are on scientific machine learning and its applications on biomechanics, scientific machine learning, computational mechanics, and uncertainty quantification.
+- My research interests are on developing mechanistic models and scientific machine learning for diagnosis and prognosis of diverse cardiovascular diseases. I am also interested in cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
 
 - [CV](http://minglangyin.github.io/files/Resume.pdf)
 
