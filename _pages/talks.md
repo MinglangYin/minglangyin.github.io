@@ -11,6 +11,9 @@ redirect_from:
 
 # Conference Talks
 ======
+* 2023 USNCCM17 (Albuquerque, NM), A Neural Operator for Parametric Geometries
+* 2023 PASC Conference (Online), A Novel Deep Learning Model for Patient-Specific Computational Modeling of Cardiac Electrophysiology 
+* 2023 Heart Rhythm 2023 (New Orleans, LA), A Novel Deep Learning Model for Patient-Specific Computational Modeling of Cardiac Electrophysiology 
 * 2022 USNCTAM (Austin, TX), Multiscale Modeling with Operator-Learning Neural Networks
 * 2022 USNCTAM (Austin, TX), Imaging-Driven Modeling of Dissection Progression in the Aorta
 * 2021 IMECE (Online) Predicting Injection-caused Delamination in Aortic Walls using DeepONet
@@ -23,9 +26,12 @@ redirect_from:
 
 # Invited Talks
 ======
+* Apr. 2023, CIS/MINDS seminar, Johns Hopkins University
+* Feb. 2023, School of Medicine/Whiting School of Engineering Research Retreat, Invited Lightening Talk, Johns Hopkins University 
+* Oct. 2022, Robert J. Melosh Competition, Civil \& Environmental Engineering, Duke University
 * Sep. 2022, Complex Fluids and Soft Matters (CFSM) seminar series, Department of Mechanical Engineering, Clemson University (Online)
 * Jan. 2022, Department of Biomedical Engineering, Johns Hopkins University, Multiscale Modeling and Machine Learning for Biomedicine (Online) 
-* Northwestern Polytechnical University (Online), Aug. 2021: Physics-Informed Machine Learning and its Application in Multiscale Modeling
-* Parallel-in-Time (PinT) Workshop (Online), Aug. 2021, Time parallel in PDEs using machine learning tools
-* NVIDIA GTC (Online), Apr. 2021, Non-invasive Inference of Thrombus Material Properties with Physics-Informed Neural Networks
+* Aug. 2021, Northwestern Polytechnical University (Online), : Physics-Informed Machine Learning and its Application in Multiscale Modeling
+* Aug. 2021, Parallel-in-Time (PinT) Workshop (Online), Time parallel in PDEs using machine learning tools
+* Apr. 2021, NVIDIA GTC (Online), Non-invasive Inference of Thrombus Material Properties with Physics-Informed Neural Networks
 

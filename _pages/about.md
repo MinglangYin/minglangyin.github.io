@@ -12,7 +12,7 @@ redirect_from:
 
 - My research interests are on developing mechanistic models and scientific machine learning for diagnosis and prognosis of diverse cardiovascular diseases. I am also interested in cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
 
-- [CV](http://minglangyin.github.io/files/Resume.pdf)
+<!-- - [CV](http://minglangyin.github.io/files/Resume.pdf) -->
 
 Recent News:
 =====
