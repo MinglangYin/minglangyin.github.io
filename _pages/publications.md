@@ -19,6 +19,8 @@ author_profile: true
 
 <!-- 12. M. Yin, R. Aaron, G.E. Karniadakis, "Non-invasive inference of arterial stiffness for osteoarthritis patients" under written (2021). -->
 
+12. M. Yin, Z. Zou, E. Zhang, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "A generative modeling framework for inferring families of biomechanical constitutive laws in data-sparse regimes" (2023).
+
 11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems", Computer Methods in Applied Mechanics and Engineering, (2022): 115027.
 
 10. M. Yin, E. Ban, E. Zhang, B. Rego, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "Simulating progressive intramural damage leading to aortic dissection using an operator-regression neural network", Journal of the Royal Society Interface 19.187 (2022): 20210670.
