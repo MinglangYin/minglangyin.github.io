@@ -16,7 +16,12 @@ redirect_from:
 
 Recent News:
 =====
-- (Jul. 2023) I got the Kenneth M. Rosen Fellowship in Cardiac Pacing and Electrophysiology, Heart Rhythm Society 2023
+- (May. 2024) I am invited to give two oral presentations in HRS 2024 (Boston) on our latest AI research for advancing the quality of clinical care. See you in Boston.
+- (Apr. 2024) Invited talk in Lu's group at Yale. "Learning Solution Operators of Partial Differential Equations Across Geometries"
+- (Mar. 2024) We proposed a computational-based shape categorization for left atrial appendage. This pipelines greatly improve the shortage in interoperatability in the current appendage classification system and will be tested on a very large cohort in the next few months!
+- (Feb. 2024) Check out our latest paper. DIMON enables geometry-dependent operator learning with validation on over 1,000 personalized hearts digital twins derived from cardiac imaging of patients with heart disease.
+- (Nov. 2023) I was selected by Hopkins as institutional candidates for the Moore Inventor Fellow.
+- (Jul. 2023) I received the Kenneth M. Rosen Fellowship in Cardiac Pacing and Electrophysiology, Heart Rhythm Society 2023
 - (Jun. 2023) Invited talk, Biophysics-informed Machine Learning, The Platform for Advanced Scientific Computing (PASC) Conference (Online) 2023
 - (May. 2023) Poster session, Heart Rhythm 2023, New Orleans, LA
 - (Apr. 2023) Invited talk at CIS/MINDS seminar, Johns Hopkins University
@@ -27,12 +32,12 @@ Recent News:
 - (Sep. 2022) Invited talk at Complex Fluids and Soft Matters (CFSM) seminar series, Department of Mechanical Engineering, Clemson University (Online)
 - (Aug. 2022) I start my new position as a postdoc in the department of biomedical engineering, Johns Hopkins University.
 - (Jul. 2022) I have my thesis defense in late July, 2022.
-- (Jun. 2022) Glad to present our works at [USNC/TAM 2022](https://www.usnctam2022.org/) in Austin!
-- (Mar. 2022) Check out our new CMAME paper of interfacing finite elements with neural operators! [Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002535)
-- (Mar. 2022) Check out our CMAME paper, [A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials](https://www.sciencedirect.com/science/article/pii/S004578252200010X)
-- (Feb. 2022) A new neural operator for simulating aortic dissection, [Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0670)
-- (Jan. 2022) Invited talk, Department of Biomedical Engineering, Johns Hopkins University, Multiscale Modeling and Machine Learning for Biomedicine
-- (Jan. 2022) Finalist of the Distinguished Fellows Position, Department of Biomedical Engineering, Johns Hopkins University
+<!-- - (Jun. 2022) Glad to present our works at [USNC/TAM 2022](https://www.usnctam2022.org/) in Austin! -->
+<!-- - (Mar. 2022) Check out our new CMAME paper of interfacing finite elements with neural operators! [Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002535) -->
+<!-- - (Mar. 2022) Check out our CMAME paper, [A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials](https://www.sciencedirect.com/science/article/pii/S004578252200010X) -->
+<!-- - (Feb. 2022) A new neural operator for simulating aortic dissection, [Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0670) -->
+<!-- - (Jan. 2022) Invited talk, Department of Biomedical Engineering, Johns Hopkins University, Multiscale Modeling and Machine Learning for Biomedicine -->
+<!-- - (Jan. 2022) Finalist of the Distinguished Fellows Position, Department of Biomedical Engineering, Johns Hopkins University -->
 <!-- - (Jan. 2022) Our new paper of PINNs for fluid mechanics, [Physics-informed neural networks (PINNs) for fluid mechanics: A review](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 - (Oct. 2021) Conference Presentation: 2021 IACM Computational Fluids Conference, [Imaging-Driven Inference of Biomaterial Properties with Physics-Informed Neural Networks]()
 - (Aug. 2021) Invited talk: Northwestern Polytechnical University, [Physics-Informed Machine Learning and its Application in Multiscale Modeling]()

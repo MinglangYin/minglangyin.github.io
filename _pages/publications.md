@@ -19,7 +19,11 @@ author_profile: true
 
 <!-- 12. M. Yin, R. Aaron, G.E. Karniadakis, "Non-invasive inference of arterial stiffness for osteoarthritis patients" under written (2021). -->
 
-12. M. Yin, Z. Zou, E. Zhang, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "A generative modeling framework for inferring families of biomechanical constitutive laws in data-sparse regimes" (2023).
+14. Z. Ahmad, M. Yin, Y. Sukurdeep, N. Rotenberg, E. Kholmovski, NA Trayanova, Elastic shape analysis computations for clustering left atrial appendage geometries of atrial fibrillation patients. ArXiv (2024)
+
+13. M. Yin, N. Charon, R. Brody, L. Lu, N. Trayanova, M. Maggioni, Dimon: Learning solution operators of partial differential equations on a diffeomorphic family of domains. ArXiv (2024)
+
+12. M. Yin, Z. Zou, E. Zhang, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "A generative modeling framework for inferring families of biomechanical constitutive laws in data-sparse regimes" J MECH PHYS SOLIDS (2023).
 
 11. M. Yin, E. Zhang, Y. Yu, G.E. Karniadakis, "Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems", Computer Methods in Applied Mechanics and Engineering, (2022): 115027.
 
@@ -35,7 +39,7 @@ author_profile: true
 
 5. E. Zhang, M. Yin, G.E. Karniadakis, "Physics-Informed Neural Networks for Nonhomogeneous Material Identification in Elasticity Imaging", AAAI Conference (2020).
 
-4. M. Yin}, A. Yazdani, and G.E. Karniadakis. "One-dimensional modeling of fractional flow reserve in coronary artery disease: Uncertainty quantification and Bayesian optimization." Computer Methods in Applied Mechanics and Engineering, 353 (2019): 66-85.
+4. M. Yin, A. Yazdani, and G.E. Karniadakis. "One-dimensional modeling of fractional flow reserve in coronary artery disease: Uncertainty quantification and Bayesian optimization." Computer Methods in Applied Mechanics and Engineering, 353 (2019): 66-85.
 
 3. D. Hopper, D. Jaganathan, J. Orr, J. Shi, F. Simeski, M. Yin, J.T.C. Liu, "Heat Transfer in Nanofluid Boundary Layer Near Adiabatic Wall." Journal of Nanofluids 7.6 (2018): 1297-1302.
 
