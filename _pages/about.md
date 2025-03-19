@@ -14,6 +14,8 @@ redirect_from:
 
 <!-- - [CV](http://minglangyin.github.io/files/Resume.pdf) -->
 
+- A complete list of publications. [Google Scholar](https://scholar.google.com/citations?user=XLCuwKkAAAAJ&hl=en&authuser=2)
+
 Recent News:
 =====
 - (Mar. 2025) I was invited to give a presentation at the Pasteur Lab.
