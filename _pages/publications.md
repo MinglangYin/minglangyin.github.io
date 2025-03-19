@@ -17,11 +17,11 @@ author_profile: true
 
 ## Journals
 
-<!-- 12. M. Yin, R. Aaron, G.E. Karniadakis, "Non-invasive inference of arterial stiffness for osteoarthritis patients" under written (2021). -->
+15. M. Yin, R. Aaron, G.E. Karniadakis, Peripheral arterial pathology and osteoarthritis of the knee: US examination of arterial wall stiffness, thickness, and flow characteristics, Osteoarthritis and Cartilage Open, (2024).
 
 14. Z. Ahmad, M. Yin, Y. Sukurdeep, N. Rotenberg, E. Kholmovski, NA Trayanova, Elastic shape analysis computations for clustering left atrial appendage geometries of atrial fibrillation patients. ArXiv (2024)
 
-13. M. Yin, N. Charon, R. Brody, L. Lu, N. Trayanova, M. Maggioni, Dimon: Learning solution operators of partial differential equations on a diffeomorphic family of domains. ArXiv (2024)
+13. M. Yin, N. Charon, R. Brody, L. Lu, N. Trayanova, M. Maggioni, A scalable framework for learning the geometry-dependent solution operators of partial differential equations. Nature Computational Science (2024)
 
 12. M. Yin, Z. Zou, E. Zhang, C. Cavinato, J.D. Humphrey, G.E. Karniadakis, "A generative modeling framework for inferring families of biomechanical constitutive laws in data-sparse regimes" J MECH PHYS SOLIDS (2023).
 

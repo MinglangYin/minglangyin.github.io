@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-- I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof.Natalia Traynova](http://www.trayanovalab.org/) on developing machine learning models for cardiovascular diseases. I finished my Ph.D. degree with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) and the title of my thesis is Hybrid Computational-Machine Learning Models with Uncertainty Quantification for Aortic Dissection.
+- I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof.Natalia Traynova](http://www.trayanovalab.org/) on developing machine learning models for addressing needs in cardiac electrophysiology. I finished my Ph.D. degree with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) and the title of my thesis is Hybrid Computational-Machine Learning Models with Uncertainty Quantification for Aortic Dissection.
 
-- My research interests are on developing mechanistic models and scientific machine learning for diagnosis and prognosis of diverse cardiovascular diseases. I am also interested in cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
+- My research interests are on developing AI and computational models to address pressing needs in clinical pipelines and to elucidate disease mechanisms. I am also interested in AI, cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
 
 <!-- - [CV](http://minglangyin.github.io/files/Resume.pdf) -->
 
 Recent News:
 =====
-- (May. 2024) I am invited to give two oral presentations in HRS 2024 (Boston) on our latest AI research for advancing the quality of clinical care. See you in Boston.
+- (Mar. 2025) I was invited to give a presentation at the Pasteur Lab.
+- (Mar. 2025) I gave a presentation at SIAM CSE 2025.
+- (Dec. 2024) Our study on developing AI for predicting geometry-dependent solution operators of PDEs got accepted in [Nature Computational Science](https://www.nature.com/articles/s43588-024-00732-2)! It attracted a high level of attention from media! [NSF News](https://www.nsf.gov/news/ai-vs-supercomputers-new-ai-based-method-solves-complex), [JHU HUB](https://hub.jhu.edu/2024/12/09/trayanova-engineering-artificial-intelligence/), Communications of the ACM (to be appeared), [MIT Tech Review (chinese)](https://www.mittrchina.com/news/detail/14546)
+- (Oct. 2024) Oral presentation at SIAM MDS 2024.
+- (Jun. 2024) Oral presentation at CMBE 2024.
+- (Jun. 2024) I received the Best PhD Thesis Award in Biomedical Engineering (Runner-Up), International Journal for Numerical Methods in Biomedical Engineering (IJNMBE)
+- (May. 2024) I was invited to give two oral presentations in HRS 2024 (Boston) on our latest AI research for advancing the quality of clinical care. See you in Boston.
 - (Apr. 2024) Invited talk in Lu's group at Yale. "Learning Solution Operators of Partial Differential Equations Across Geometries"
 - (Mar. 2024) We proposed a computational-based shape categorization for left atrial appendage. This pipelines greatly improve the shortage in interoperatability in the current appendage classification system and will be tested on a very large cohort in the next few months!
 - (Feb. 2024) Check out our latest paper. DIMON enables geometry-dependent operator learning with validation on over 1,000 personalized hearts digital twins derived from cardiac imaging of patients with heart disease.
