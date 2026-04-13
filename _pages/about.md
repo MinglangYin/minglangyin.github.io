@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof.Natalia Traynova](http://www.trayanovalab.org/) on developing AI models for addressing needs in cardiac electrophysiology.
+- I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof. Natalia Traynova](http://www.trayanovalab.org/) on developing AI models for addressing needs in cardiac electrophysiology.
 
 - My research interests are on developing AI and computational models to address pressing needs in clinical pipelines and to elucidate disease mechanisms. I am also interested in AI, cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
 
@@ -67,7 +67,5 @@ Highlights:
 - (Jan. 2021) New paper [Multiscale Parareal Algorithm for Long-Time Mesoscopic Simulations of Microvascular Blood Flow in Zebrafish](https://link.springer.com/article/10.1007/s00466-021-02062-w).
 - (Oct. 2020) New paper [Physics-Informed Neural Networks for Nonhomogeneous Material Identification in Elasticity Imaging](https://arxiv.org/abs/2009.04525).
 - (May. 2020) New paper [Non-invasive Inference of Thrombus Material Properties with Physics-informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S004578252030788X).
-<!-- 
-</details> -->
 
 
