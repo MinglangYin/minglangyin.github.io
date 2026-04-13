@@ -29,12 +29,7 @@ Highlights:
 - (Jul, 2025) &#127881; Paper published in [Nature Cardiovascular Research](https://www.nature.com/articles/s44161-025-00679-1)! AI prognosis outperforms the current guidelines on predicting sudden cardiac death (SCD) by a large margin! So excited to share our paper published in Nature Cardiovascular Research. Our multimodal AI is able to utilize the hidden fibrosis structures in MRI and data pattern in EHR for SCD risk prediction. 
   - [JHU News](https://ventures.jhu.edu/news/ai-predicts-patients-likely-to-die-of-sudden-cardiac-arrest/).
   - [New York Magazine](https://nymag.com/intelligencer/article/sudden-cardiac-arrest-death-medical-research-funding.html)
-  - [Other Media 1](https://www.auntminnie.com/clinical-news/mri/article/15749884/ai-algorithm-identifies-patients-at-risk-of-sudden-cardiac-arrest)
-  - [Other Media 2](https://www.medscape.com/viewarticle/this-model-beats-docs-predicting-sudden-cardiac-arrest-2025a1000hoc)
-  - [Other Media 3](https://www.sciencedaily.com/releases/2025/07/250702214205.htm)
-  - [Other Media 4](https://www.wypr.org/show/on-the-record/2025-07-16/jhu-cardiac-research-can-ai-out-diagnose-a-doctor)
-  - [Other Media 5](https://www.citybiz.co/article/720431/johns-hopkins-university-researchers-develop-ai-model-outperforming-clinicians-in-predicting-sudden-cardiac-arrest-risk-promising-precision-in-heart-care/)
-  - [Other Media 6]
+  - [Other Article 1](https://www.auntminnie.com/clinical-news/mri/article/15749884/ai-algorithm-identifies-patients-at-risk-of-sudden-cardiac-arrest), [Other Article 2](https://www.medscape.com/viewarticle/this-model-beats-docs-predicting-sudden-cardiac-arrest-2025a1000hoc), [Other Article 3](https://www.sciencedaily.com/releases/2025/07/250702214205.htm), [Other Article 4](https://www.wypr.org/show/on-the-record/2025-07-16/jhu-cardiac-research-can-ai-out-diagnose-a-doctor), [Other Article 5](https://www.citybiz.co/article/720431/johns-hopkins-university-researchers-develop-ai-model-outperforming-clinicians-in-predicting-sudden-cardiac-arrest-risk-promising-precision-in-heart-care/), [Other Article 6](https://www.diagnosticsworldnews.com/news/2025/08/07/johns-hopkins-develops-multimodal-ai-model-that-predicts-sudden-cardiac-arrest), [Other Article 7](https://www.techbriefs.com/component/content/article/53814-ai-model-can-predict-cardiac-arrest-better-than-doctors)
 
 
 - (Dec. 2024) &#127881; Our study on developing AI for predicting geometry-dependent solution operators of PDEs got accepted in [Nature Computational Science](https://www.nature.com/articles/s43588-024-00732-2)! It attracted a high level of attention from media! 
@@ -43,8 +38,7 @@ Highlights:
   - [Hopkins Medicine News](https://www.hopkinsmedicine.org/news/articles/2025/05/a-digital-twin-for-individualized-cardiology?utm_source=chatgpt.com)
   - [Communications of the ACM](https://cacm.acm.org/news/machine-learning-framework-integrates-geometry-into-fast-pde-solving/)
   - [MIT Tech Review (chinese)](https://www.mittrchina.com/news/detail/14546)
-  - [Other News 1](https://techxplore.com/news/2024-12-ai-complex-problems-faster-supercomputers.html#google_vignette)
-  - [Other News 2](https://interestingengineering.com/science/new-ai-model-outperforms-supercomputers)
+  - [Other Article 1](https://techxplore.com/news/2024-12-ai-complex-problems-faster-supercomputers.html#google_vignette), [Other Article 2](https://interestingengineering.com/science/new-ai-model-outperforms-supercomputers)
 
 <details markdown="1">
 <summary><b>Older News</b></summary>
