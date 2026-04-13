@@ -18,6 +18,13 @@ redirect_from:
 
 Recent News:
 =====
+- (Apr, 2026) HRS presentation
+- (Mar, 2026) AHA rapid impact grant
+- (Mar, 2026) JACC EP paper
+- (Sep, 2025) Presentation in 91Life
+- (Sep, 2025) Computers in Biology and Medicine
+- (Jul, 2025) Nature Cardiovascular Science
+
 - (Mar. 2025) I was invited to give a presentation at the Pasteur Lab.
 - (Mar. 2025) I gave a presentation at SIAM CSE 2025.
 - (Dec. 2024) Our study on developing AI for predicting geometry-dependent solution operators of PDEs got accepted in [Nature Computational Science](https://www.nature.com/articles/s43588-024-00732-2)! It attracted a high level of attention from media! [NSF News](https://www.nsf.gov/news/ai-vs-supercomputers-new-ai-based-method-solves-complex), [JHU HUB](https://hub.jhu.edu/2024/12/09/trayanova-engineering-artificial-intelligence/), Communications of the ACM (to be appeared), [MIT Tech Review (chinese)](https://www.mittrchina.com/news/detail/14546)
@@ -41,6 +48,33 @@ Recent News:
 - (Aug. 2022) I start my new position as a postdoc in the department of biomedical engineering, Johns Hopkins University.
 - (Jul. 2022) I have my thesis defense in late July, 2022.
 
+
+<details>
+<summary><b>Older news</b></summary>
+
+<ul>
+<li>(Oct. 2024) Oral presentation at SIAM MDS 2024.</li>
+<li>(Jun. 2024) Oral presentation at CMBE 2024.</li>
+<li>(Jun. 2024) I received the Best PhD Thesis Award in Biomedical Engineering (Runner-Up), International Journal for Numerical Methods in Biomedical Engineering (IJNMBE)</li>
+<li>(May. 2024) I was invited to give two oral presentations in HRS 2024 (Boston) on our latest AI research for advancing the quality of clinical care. See you in Boston.</li>
+<li>(Apr. 2024) Invited talk in Lu's group at Yale. "Learning Solution Operators of Partial Differential Equations Across Geometries"</li>
+<li>(Mar. 2024) We proposed a computational-based shape categorization for left atrial appendage. This pipelines greatly improve the shortage in interoperatability in the current appendage classification system and will be tested on a very large cohort in the next few months!</li>
+<li>(Feb. 2024) Check out our latest paper. DIMON enables geometry-dependent operator learning with validation on over 1,000 personalized hearts digital twins derived from cardiac imaging of patients with heart disease.</li>
+<li>(Nov. 2023) I was selected by Hopkins as institutional candidates for the Moore Inventor Fellow.</li>
+<li>(Jul. 2023) I received the Kenneth M. Rosen Fellowship in Cardiac Pacing and Electrophysiology, Heart Rhythm Society 2023</li>
+<li>(Jun. 2023) Invited talk, Biophysics-informed Machine Learning, The Platform for Advanced Scientific Computing (PASC) Conference (Online) 2023</li>
+<li>(May. 2023) Poster session, Heart Rhythm 2023, New Orleans, LA</li>
+<li>(Apr. 2023) Invited talk at CIS/MINDS seminar, Johns Hopkins University</li>
+<li>(Apr. 2023) Check out our paper on DL for constitutive modeling. The framework learns the constitutive laws for a family of materials and infer the new samples without retraining! <a href="https://arxiv.org/abs/2305.03184">A generative modeling framework for inferring families of biomechanical constitutive laws in data-sparse regimes</a></li>
+<li>(Feb. 2023) Invited Lightening talk, School of Medicine/Whiting School of Engineering Research Retreat, Johns Hopkins University</li>
+<li>(Mar. 2023) Travel Award, 17th U. S. National Congress on Computational Mechanics</li>
+<li>(Oct. 2022) Invited talk, Finalist of Robert J. Melosh Competition, Civil & Environmental Engineering, Duke University</li>
+<li>(Sep. 2022) Invited talk at Complex Fluids and Soft Matters (CFSM) seminar series, Department of Mechanical Engineering, Clemson University (Online)</li>
+<li>(Aug. 2022) I start my new position as a postdoc in the department of biomedical engineering, Johns Hopkins University.</li>
+<li>(Jul. 2022) I have my thesis defense in late July, 2022.</li>
+</ul>
+
+</details>
 
 <!-- - (Jun. 2022) Glad to present our works at [USNC/TAM 2022](https://www.usnctam2022.org/) in Austin!
 - (Mar. 2022) Check out our new CMAME paper of interfacing finite elements with neural operators! [Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002535)
