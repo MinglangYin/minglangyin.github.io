@@ -12,7 +12,7 @@ redirect_from:
 
 - My research interests are on developing AI and computational models to address pressing needs in clinical pipelines and to elucidate disease mechanisms. I am also interested in AI, cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
 
-<!-- - [CV](http://minglangyin.github.io/files/Resume.pdf) -->
+- [Resume](http://minglangyin.github.io/files/Resume.pdf)
 
 - A complete list of publications. [Google Scholar](https://scholar.google.com/citations?user=XLCuwKkAAAAJ&hl=en&authuser=2)
 
