@@ -18,19 +18,16 @@ redirect_from:
 
 Highlights:
 =====
-- (Apr, 2026) I will present our latest work on predicting electrical propagation using AI at HRS 2026 (Chicago). 
+- (Apr, 2026) I will present our latest work on predicting electrical propagation using AI at HRS 2026 (Chicago).
 - (Mar, 2026) We received the AHA Rapid Impact Research Award! The proposal entails developing AI to predict ischemic stroke for patients with atrial fibrillation, which affect 2-3% of the populations in the world.
-- (Mar, 2026) Paper accepted JACC EP paper
-- (Sep, 2025) Paper accepted in Computers in Biology and Medicine
-- (Jul, 2025) Paper accepted in [Nature Cardiovascular Science](https://www.nature.com/articles/s44161-025-00679-1)!
-- (Mar. 2025) &#10004 I was invited to give a presentation at the Pasteur Lab. Thank you, Metto!
-- (Dec. 2024) &#10004 Our study on developing AI for predicting geometry-dependent solution operators of PDEs got accepted in [Nature Computational Science](https://www.nature.com/articles/s43588-024-00732-2)! It attracted a high level of attention from media! [NSF News](https://www.nsf.gov/news/ai-vs-supercomputers-new-ai-based-method-solves-complex), [JHU HUB](https://hub.jhu.edu/2024/12/09/trayanova-engineering-artificial-intelligence/), [Communications of the ACM](https://cacm.acm.org/news/machine-learning-framework-integrates-geometry-into-fast-pde-solving/), and [MIT Tech Review (chinese)](https://www.mittrchina.com/news/detail/14546)
-
-
-
+- (Mar, 2026) :tada: Paper accepted JACC EP paper
+- (Sep, 2025) :tada: Paper accepted in Computers in Biology and Medicine
+- (Jul, 2025) :tada: Paper accepted in [Nature Cardiovascular Science](https://www.nature.com/articles/s44161-025-00679-1)!
+- (Mar. 2025) &#10004; I was invited to give a presentation at the Pasteur Lab. Thank you, Metto!
+- (Dec. 2024) :tada: Our study on developing AI for predicting geometry-dependent solution operators of PDEs got accepted in [Nature Computational Science](https://www.nature.com/articles/s43588-024-00732-2)! It attracted a high level of attention from media! [NSF News](https://www.nsf.gov/news/ai-vs-supercomputers-new-ai-based-method-solves-complex), [JHU HUB](https://hub.jhu.edu/2024/12/09/trayanova-engineering-artificial-intelligence/), [Communications of the ACM](https://cacm.acm.org/news/machine-learning-framework-integrates-geometry-into-fast-pde-solving/), and [MIT Tech Review (chinese)](https://www.mittrchina.com/news/detail/14546)
 
 <details>
-<summary><b>Older news</b></summary>
+<summary><b>Older News</b></summary>
 
 <ul>
 <li>(Sep, 2025) Presentation in 91Life. Thank you, Bleron, for your kind invitation!</li>
@@ -68,7 +65,7 @@ Highlights:
 <li>(Oct. 2020) New paper [Physics-Informed Neural Networks for Nonhomogeneous Material Identification in Elasticity Imaging](https://arxiv.org/abs/2009.04525).</li>
 <li>(May. 2020) New paper [Non-invasive Inference of Thrombus Material Properties with Physics-informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S004578252030788X).</li> 
 </ul>
-
-</details>
+<!-- 
+</details> -->
 
 
