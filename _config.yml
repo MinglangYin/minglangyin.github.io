@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minglang Yin"
 title_separator          : "-"
 name                     : &name "Minglang Yin"
-description              : &description "Ph.D. Candidate"
+description              : &description "Ph.D."
 url                      : https://minglangyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minglangyin/minglangyin.github.io"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/minglang-yin-9b1729162/"
+  linkedin         : "minglang-yin-9b1729162/"
   orcid            : "https://orcid.org/0000-0001-7861-350X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/minglang_y"
+  twitter          : "minglang_y"
   vine             :
   weibo            :
   xing             :
