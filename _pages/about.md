@@ -29,8 +29,9 @@ Highlights:
 
 - (Dec. 2024) &#127881; Our study on developing AI for predicting geometry-dependent solution operators of PDEs got accepted in [Nature Computational Science](https://www.nature.com/articles/s43588-024-00732-2)! It attracted a high level of attention from media! [NSF News](https://www.nsf.gov/news/ai-vs-supercomputers-new-ai-based-method-solves-complex), [JHU HUB](https://hub.jhu.edu/2024/12/09/trayanova-engineering-artificial-intelligence/), [Communications of the ACM](https://cacm.acm.org/news/machine-learning-framework-integrates-geometry-into-fast-pde-solving/), and [MIT Tech Review (chinese)](https://www.mittrchina.com/news/detail/14546)
 
-<details>
+<details markdown="1">
 <summary><b>Older News</b></summary>
+
 - (Sep, 2025) Presentation in 91Life. Thank you, Bleron, for your kind invitation!
 - (Mar. 2025) I gave a presentation at SIAM CSE 2025.
 - (Mar. 2025) &#10004; I was invited to give a presentation at the Pasteur Lab. Thank you, Metto!
