@@ -18,6 +18,8 @@ redirect_from:
 
 Highlights:
 =====
+- (May, 2026) Preprint. Multimodal AI + Survival Analysis for predicting recurrence date in AF patients who underwent catheter ablation. Most works in medical AI focuses on predicting risk at a certain time-point, while neglecting diseases progress in time! AI + Survival analysis should be the way to go. I am so glad that we finally finished this work! [medrxiv](https://www.medrxiv.org/content/10.64898/2026.05.12.26353055v1.full.pdf)
+
 - (Apr, 2026) 🎊  I will present our latest work on predicting electrical propagation using AI at HRS 2026 (Chicago).
 - (Mar, 2026) 🎊  We received the AHA Rapid Impact Research Award! The proposal entails developing AI to predict ischemic stroke for patients with atrial fibrillation, which affect 2-3% of the populations in the world.
 
