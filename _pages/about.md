@@ -10,7 +10,7 @@ redirect_from:
 
 - I am Minglang Yin. ML/AI researcher, 10+ years modeling sparse, noisy, high-dimensional data. Depth in predictive/probabilistic modeling, survival analysis, time-series forecasting, and computational sciences. Hands on experience on HPC and distributed GPU training. Publications in Nature-family, top applied math & clinical journals, and AAAI.
 
-- [CV](http://minglangyin.github.io/files/Resume.pdf) [Resume](http://minglangyin.github.io/files/MY_Resume.pdf)
+- [CV](http://minglangyin.github.io/files/CV.pdf) [Resume](http://minglangyin.github.io/files/MY_Resume.pdf)
 
 - A complete list of publications. [Google Scholar](https://scholar.google.com/citations?user=XLCuwKkAAAAJ&hl=en&authuser=2)
 
