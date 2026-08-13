@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am Minglang Yin. I am a Postdoc Fellow in the Department of Biomedical Engineering, Johns Hopkins University. I am working with [Prof. Natalia Traynova](http://www.trayanovalab.org/) on developing AI models for addressing needs in cardiac electrophysiology.
-
-- My research interests are on developing AI and computational models to address pressing needs in clinical pipelines and to elucidate disease mechanisms. I am also interested in AI, cardiovascular biomechanics, computational mechanics, and uncertainty quantification.
+- I am Minglang Yin. ML/AI researcher, 10+ years modeling sparse, noisy, high-dimensional data. Depth in predictive/probabilistic modeling, survival analysis, time-series forecasting, and computational sciences. Hands on experience on HPC and distributed GPU training. Publications in Nature-family, top applied math & clinical journals, and AAAI.
 
 - [CV](http://minglangyin.github.io/files/Resume.pdf) [Resume](http://minglangyin.github.io/files/MY_Resume.pdf)
 
